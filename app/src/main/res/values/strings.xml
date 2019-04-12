@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">test</string>
+    <string name="app_name">WalmartTest</string>
+    <string name="txt_producto">Producto:</string>
+    <string name="txt_department">Departamento:</string>
+    <string name="txt_sku">SKU:</string>
+    <string name="txt_price">Precio:</string>
+    <string name="txt_btn_add">Agregar al carrito</string>
+    <string name="txt_walmartest">Walmart Test</string>
+    <string name="txt_url"><![CDATA[https://super.walmart.com.mx/api/rest/model/atg/commerce/catalog/ProductCatalogActor/getSkuSummaryDetails?storeId=0000009999&upc=00750129560012&skuId=00750129560012]]></string>
+
 </resources>
