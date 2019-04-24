@@ -1,4 +1,4 @@
-package com.ehernndez.test.singleton;
+package com.ehernndez.walmarttest.singleton;
 
 import android.content.Context;
 

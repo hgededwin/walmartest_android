@@ -1,4 +1,4 @@
-package com.ehernndez.test;
+package com.ehernndez.walmarttest;
 
 import org.junit.Test;
 

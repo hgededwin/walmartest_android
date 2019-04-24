@@ -5,6 +5,12 @@
     <string name="txt_sku">SKU:</string>
     <string name="txt_price">Precio:</string>
     <string name="txt_btn_add">Agregar al carrito</string>
-    <string name="txt_url"><![CDATA[https://super.walmart.com.mx/api/rest/model/atg/commerce/catalog/ProductCatalogActor/getSkuSummaryDetails?storeId=0000009999&upc=00750129560012&skuId=00750129560012]]></string>
+    <string name="txt_walmartest">Walmart Test</string>
+    <string name="txt_url">https://www.walmart.com.mx/api/rest/model/atg/commerce/catalog/ProductCatalogActor/getProduct?id=00750940180662</string>
+    <string name="title_activity_content">ContentActivity</string>
+    <string name="txt_title_dialog">Walmart</string>
+    <string name="txt_problema_internet">Ocurrió un problema, revise su conexión a internet.</string>
+    <string name="txt_btn_entendido">Entendido</string>
+    <string name="txt_enviando_espera">Recibiendo datos, por favor espere.</string>
 
 </resources>
